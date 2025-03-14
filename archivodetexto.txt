@@ -1,0 +1,9 @@
+JDK: 19 
+NETBEANS:19
+JAVA:
+java version "23.0.2" 2025-01-21
+Java(TM) SE Runtime Environment (build 23.0.2+7-58)
+Java HotSpot(TM) 64-Bit Server VM (build 23.0.2+7-58, mixed mode, sharing)
+TOMCAT: Apache Tomcat/8.5.96
+http://localhost:8080/ProyectoReservaCoworking/
+los comentarios estan dentro del codigo
